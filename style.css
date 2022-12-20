@@ -779,7 +779,7 @@ nav{
     }
     .signup-container h2
     {
-        font-size: 1.5em !important;
+        font-size: 1em !important;
     }
     .form input, .form button
     {
@@ -797,6 +797,22 @@ nav{
     .footer-nav
     {
         gap:25px;
+    }
+    .accord-list
+    {
+        padding: 15px 15px;
+    }
+    .accord-list h4
+    {
+        font-size: 0.9em;
+    }
+    .accord-feature-list li
+    {
+        font-size: 0.9em;
+    }
+    .review p
+    {
+        font-size: 0.9em;
     }
 }
 
